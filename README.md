@@ -4,10 +4,15 @@ Profitability-analysis project in R
 Detailed profitability analysis of metal industry companies as a group project, using R language
 
 Created by:
+<br/>
 rixis321
+<br/>
 dominik-matysek
+<br/>
 dbartoszp
+<br/>
 Kil85
+<br/>
 
 
 Topic: In a metalworking company, 25 customers were randomly selected in 1994 and in 1995 and the level of profitability of sales of the company's products to those recipients was examined.
