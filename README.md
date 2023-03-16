@@ -13,6 +13,8 @@ dbartoszp
 <br/>
 Kil85
 <br/>
+piotr-wilk
+<br/>
 
 
 Topic: In a metalworking company, 25 customers were randomly selected in 1994 and in 1995 and the level of profitability of sales of the company's products to those recipients was examined.
